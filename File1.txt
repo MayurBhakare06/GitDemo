@@ -5,3 +5,5 @@ WI2:- Change: New change to test push operation.
 WI3:- Bug fixed.
 Bug:-Testing the rebase for merging branch.
 WI4:- Changes done by the team mate.
+bug123:- Changes done to fix bug.
+bug123:-Added new changes in bug.
