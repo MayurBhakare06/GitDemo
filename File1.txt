@@ -8,3 +8,5 @@ WI4:- Changes done by the team mate.
 bug123:- Changes done to fix bug.
 bug123:-Added new changes in bug.
 WI5:- Changes by teammate.
+Bug2:-Bug2 is being resolved.
+Bug2:- Bug 2 is resolved.
